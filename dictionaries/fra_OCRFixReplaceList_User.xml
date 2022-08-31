@@ -1,0 +1,62 @@
+<ReplaceList>
+  <WholeWords>
+    <Word from="A" to="A" />
+    <Word from="à" to="à" />
+    <Word from="à" to="à" />
+    <Word from="Ohsi" to="Oh si" />
+    <Word from="Meme" to="Même" />
+    <Word from="frontiere" to="frontière" />
+    <Word from="à" to="à" />
+    <Word from="à" to="à" />
+    <Word from="inquietera" to="inquiétera" />
+    <Word from="meriter" to="mériter" />
+    <Word from="à" to="à" />
+    <Word from="decollage" to="décollage" />
+    <Word from="à" to="à" />
+    <Word from="à" to="à" />
+    <Word from="mere" to="mère" />
+    <Word from="hultres" to="huîtres" />
+    <Word from="meme" to="même" />
+    <Word from="etre" to="être" />
+    <Word from="mele" to="mêlé" />
+    <Word from="Iache" to="lâche" />
+    <Word from="A" to="A" />
+    <Word from="à" to="à" />
+    <Word from="à" to="à" />
+    <Word from="desillusion" to="désillusion" />
+    <Word from="Emerveillee" to="Emerveillée" />
+    <Word from="l'ecole" to="l’école" />
+    <Word from="demonstration" to="démonstration" />
+    <Word from="Çayest" to="- Ça y est" />
+    <Word from="fexpliquerai" to="t'expliquerai" />
+    <Word from="Pencadrez" to="l'encadrez" />
+    <Word from="à" to="à" />
+    <Word from="à" to="à" />
+    <Word from="Ecrous" to="Écrous" />
+    <Word from="Epave" to="Épave" />
+    <Word from="Eparpillé" to="Éparpille" />
+    <Word from="Ecoute" to="Écoute" />
+  </WholeWords>
+  <PartialLines />
+  <BeginLines />
+  <EndLines />
+  <WholeLines>
+    <Line from="- Va fétendre.&#xD;&#xA;Tâche de dormir." to="- Va t'étendre.&#xD;&#xA;Tâche de dormir." />
+    <Line from="Mais ne régale: pas Pescadre&#xD;&#xA;chaque soir." to="Mais ne régale: pas l'escadre&#xD;&#xA;chaque soir." />
+    <Line from="- Qu'y a-t-il ? _&#xD;&#xA;- Allons nous asseoir." to="- Qu'y a-t-il ?&#xD;&#xA;- Allons nous asseoir." />
+    <Line from="- T&#xD;&#xA;u le ne“&#xD;&#xA;X '.&gt; 0h, pour&#xD;&#xA;S l" to="- Oh, l'ours!&#xD;&#xA;- Tu le veux?" />
+    <Line from="Déclenchez vos chronos&#xD;&#xA;quand le pilote Iachera ses freins." to="Déclenchez vos chronos&#xD;&#xA;quand le pilote lâchera ses freins." />
+    <Line from="N - Ça sent le gaz ?&#xD;&#xA;- Passons la frontlere." to="- Ça sent le gaz ?&#xD;&#xA;- Passons la frontlere." />
+    <Line from="&lt;i&gt;Tanguy pilote le DC-3&#xD;&#xA;qui doit servir cfappât&lt;/i&gt;" to="&lt;i&gt;Tanguy pilote le DC-3&#xD;&#xA;qui doit servir d'appât&lt;/i&gt;" />
+    <Line from="- Ça ne s'arrange pas. ' _&#xD;&#xA;- Revenons aux choses serleuses." to="- Ça ne s'arrange pas.&#xD;&#xA;- Revenons aux choses serleuses." />
+    <Line from="♪ ai percuté des oiseaux.&#xD;&#xA;Panne de reacteur." to="J'ai percuté des oiseaux.&#xD;&#xA;Panne de reacteur." />
+    <Line from="-I[n'y a même pas&#xD;&#xA;à maquiller les photos." to="-Il n'y a même pas&#xD;&#xA;à maquiller les photos." />
+  </WholeLines>
+  <RegularExpressions />
+  <RemovedWholeWords />
+  <RemovedPartialLines />
+  <RemovedBeginLines />
+  <RemovedEndLines />
+  <RemovedWholeLines />
+  <RemovedRegularExpressions />
+</ReplaceList>
